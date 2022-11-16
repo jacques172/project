@@ -34,7 +34,7 @@ This is the final project of CS50x. It is an app which enables you to play local
 - Mute button: enables to mute or unmute the song for our kivy music.
 
 # Picture
-![alt text](https://github.com/[jacques172]/[project]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[jacques172]/[project]/blob/[main]/Screenshot 2022-11-16 170339.png?raw=true)
 
 
 
